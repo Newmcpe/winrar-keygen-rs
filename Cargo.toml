@@ -1,0 +1,3 @@
+[workspace]
+members = ["winrar-keygen", "winrar-keygen-cli"]
+resolver = "2"

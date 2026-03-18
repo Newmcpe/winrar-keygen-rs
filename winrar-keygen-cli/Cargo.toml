@@ -1,0 +1,11 @@
+[package]
+name = "winrar-keygen-cli"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "winrar-keygen"
+path = "src/main.rs"
+
+[dependencies]
+winrar-keygen = { path = "../winrar-keygen" }
